@@ -20,7 +20,7 @@ public class Ex006 {
 			}
 			
 		}
-		System.out.println("O maior número digitado é " + maior);
+		System.out.println("O maior número digitado é: " + maior);
 		leitor.close();
 
 	}
